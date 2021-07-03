@@ -1,0 +1,3 @@
+from torch_geometric.datasets import MNISTSuperpixels
+
+from torch_geometric.utils import from_networkx
